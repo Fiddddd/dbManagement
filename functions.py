@@ -28,3 +28,6 @@ def removeVal():
 
 def admin():
     pass
+
+def removeDB():
+    pass
